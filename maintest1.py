@@ -15,6 +15,7 @@ def welcome_message(name, role):
     print(message)
 
 # Main execution
+# Main execution
 if __name__ == "__main__":
     # Define user details
     user_name = "Arif"
